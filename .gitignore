@@ -8,3 +8,5 @@
 .vscode/
 *.user
 compile_commands.json
+
+output/
